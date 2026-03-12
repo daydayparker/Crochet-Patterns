@@ -1,0 +1,117 @@
+Pochita: shugarenji (original) / solardayday (me) (reuploaded)
+link: ?????
+pochita saw:
+(light gray yarn)
+R1: mr 6sc (6 stitches total)
+R2: (2sc, inc) x2 (8 stitches total)
+R3-R5: 8sc (8 stitches total)
+squish the saw flat
+sc the saw shut
+exchange light gray yarn for dark gray yarn
+(make sure the light gray yarn's working yarn is long, and sew in the light gray yarn's tail yarn)
+(make sure both the light gray yarn's working yarn and tail yarn are long)
+(2ch, slst) around
+pochita body (until face):
+(orange yarn)
+R1: mr 6sc (6 stitches total)
+R2: 6inc (12 stitches total)
+R3: (sc, inc) x 6 (18 stitches total)
+R4: (2sc, inc) x 6 (24 stitches total)
+R5: (3sc, inc) x 6 (30 stitches total)
+R6-R8: 30sc (30 stitches total)
+pochita face (eyes):
+(white yarn)
+place safety eyes between rounds 4-5
+(with a needle) wrap yarn around the safety eyes twice
+adjust eye size with needle
+sew in the yarn ends with the inside of the pochita face
+pochita face (saw):
+pass through dark gray yarn's working yarn into the middle
+pass through dark gray yarn's tail yarn and the light gray yarn's working yarn into the top of the head (vertically)
+tie the dark gray yarn's working yarn with the dark gray yarn's tail yarn
+whipstitch the light gray yarn's working yarn with the flat part of the saw
+go from top to center then center to top with the whipstitching
+sew in the light gray yarn's working yarn with the inside of the pochita face
+pochita face (smile):
+make a :3 smile
+make sure to do it symmetrically
+the smile can also be set up like u-u
+pochita body (to tail / end):
+(still orange yarn)
+R9-R14: 30sc (30 stitches total)
+R15: (3sc, dec) x 6 (24 stitches total)
+R16: (2sc, dec) x 6 (18 stitches total)
+R17: (sc, dec) x 6 (12 stitches total)
+R18: 3dec, 2inc, 2dec (9 stitches total)
+stuff
+R19: 9sc (9 stitches total)
+R20: 4dec (5 stitches total) then dec
+sew yarn, tie yarn, and shove yarn into pochita
+pochita short leg:
+(orange yarn)
+R1: mr 6sc (6 stitches total)
+R2-R3: 6sc (6 stitches total)
+squish the leg flat
+close the leg with sc
+make 2
+pochita long leg:
+(orange yarn)
+R1: mr 6sc (6 stitches total)
+R2-R4: 6sc (6 stitches total)
+squish the leg flat
+close the leg with sc
+make 2
+pochita legs:
+sew however you would like (just make sure the way you sew is the same for each leg)
+(imagine legs take up 3 stitches of width)
+shle = short leg
+lole = long leg
+pochita leg sewing diagram (this is the best diagram in the world):
+
+	    (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole)
+
+(eye) (eye) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (lole) (lole) (lole) (hole)
+
+(eye) (eye) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole)
+
+ 	    (hole) (shle) (shle) (shle) (hole) (hole) (hole) (hole) (hole) (hole) (hole)
+
+	    (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole) (hole)
+(if this looks uneven, just place the legs where the are even, look natural, and are lower than the shorter legs)
+(this is due to the unstraight stitches)
+pochita lower handle:
+(black yarn)
+do this below the tail
+3ch
+slst into the 2nd ch
+4ch
+slst into the 2nd ch
+2ch
+slst into pochita's body to secure
+use the working and tail yarn to make a double knot
+stuff the double knot into pochita's body
+pochita ripcord:
+(black yarn)
+do this at the end of pochita's tail
+8ch
+slst into the 2nd ch
+4ch
+slst into the 2nd ch
+2ch
+slst into the 3rd ch, 2nd ch, and 1st ch of the original 8ch
+use the working and tail yarn to make a double knot
+stuff the double knot into pochita's body
+pochita upper handle:
+(black yarn)
+this should be done two rounds ahead of where the saw comes out of the top of pochita's head
+the space between the two vertical parts of the upper handle should be ~5-6 stitches
+3ch
+slst into the 2nd ch
+8 ch
+slst into the 2nd ch
+2ch
+slst into pochita's body to secure
+use the working and tail yarn to make a double knot
+stuff the double knot into pochita's body
+pochita key chain:
+nothing special (just use the same technique as most amigurumi keychains would use)
